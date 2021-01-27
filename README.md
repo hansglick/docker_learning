@@ -17,16 +17,18 @@ L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le
 
  * `CMD ou ENTRYPOINTS` permet lancer une commande, une fois l'image construite. Typiquement, on lance l'application python via cette commande. On préfère utiliser la commande CMD plutot que ENTRYPOINTS, bon apparemment c'est une question de subtilité que je ne comprends pas pour le moment
 
+***
 
 ### Passer des arguments dans le Docker run
 
 Il y a globalement deux facons de faire:
  1. Monter un fichier dans le container au moment du run. Par exemple, l'image contient une commande qui prend un fichier en input tel que `python app.py inputfile.txt`. On peut donc monter le fichier inputfile.txt au moment du run de cette façon `docker run -v inputfile.txt:/app/inputfile.txt docker-image`
- 2. On peut également passer des arguments de manière plus habituelle comme une application python classique ([exemple](adressedurepocourspy)). Pour ce faire :
+ 2. On peut également passer des arguments de manière plus habituelle comme une application python classique ([exemple](https://github.com/hansglick/docker_learning/tree/master/courspy)). Pour ce faire :
   * Dans `Dockerfile`, renseignez les variables globales à l'aide du mot clé `ENV`. Par exemple `ENV INPUTFILE=jamesruskin.json`
   * La commande `CMD` ne peut alors plus être défini comme une liste de string comme l'explique le [post stackoverflow](https://stackoverflow.com/questions/40454470/how-can-i-use-a-variable-inside-a-dockerfile-cmd). On pourrait avoir par exemple `CMD python app.py $INPUTFILE`
   * Lors du docker run, signaler simplement la valeur de la variable `INPUTFILE` grâce au flag `-f` de cette manière : `docker run -e INPUTFILE=jeffmils.json docker-image` 
 
+***
 
 ### Vocabulaire
 
