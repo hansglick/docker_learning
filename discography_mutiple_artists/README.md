@@ -7,7 +7,7 @@ Image Docker qui permet de télécharger **LES** discographies d'artistes à par
 
 On éclate les noms des 24,000 artistes présents dans le fichier artists.json issu du crawling sur le site resident advisory en x fichiers présents dans le dossier data avec une des commandes suivantes : 
 
- * 20% des artistes distribués sur 200 fichiers `python distribute_data.py -f artists.json -t 0.2 -n 200 -o data/`
+ * Top 20% des artistes avec le plus d'abonnés distribués sur 200 fichiers `python distribute_data.py -f artists.json -t 0.2 -n 200 -o data/`
  * Artistes > 5000 abonnées sur R.A. distribués sur 200 fichiers `python distribute_data.py -f artists.json -t 5000 -n 200 -o data/`
 
 ### Commandes
