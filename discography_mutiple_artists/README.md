@@ -12,11 +12,12 @@ On éclate les noms des 24,000 artistes présents dans le fichier artists.json i
 
 ### Commandes
 
-* Build de l'image : `sudo docker build -t artists-image .`
+* Build de l'image :
+  * `sudo docker build -t artists-image .`
 * Run classique de l'image avec le fichier exemple :
   * `sudo docker run artists-image`
-* Run de l'image avec un des 200 sets d'artistes éclatés :
-  * `sudo docker run -v ~/proj/docker_learning/discography_mutiple_artists/data/set_0000.txt:/app/artists.txt artists-image`. **ATTENTION!** Il faut indiquer le chemin absolu pour le fichier host! 
+* Run de l'image avec un des 200 sets d'artistes éclatés, **ATTENTION!** Il faut indiquer le chemin absolu pour le fichier host! :
+  * `sudo docker run -v ~/proj/docker_learning/discography_mutiple_artists/data/set_0000.txt:/app/artists.txt artists-image`. 
 
 ### Problèmes 
 
