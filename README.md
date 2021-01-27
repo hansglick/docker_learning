@@ -13,6 +13,8 @@ Docker est utile pour déployer une application de **type service**. Un service 
 
 Dans notre cas, i.e. télécharger des millions de fichiers, notre application est de **type task**. On veut executer une tâche. Cependant, docker pourrait nous servir car il permet d'isoler une application et donc de la démultiplier à l'infini sur plusieurs serveurs mais c'est une espèce d'utilisation détourné de docker
 
+***
+
 ### Le Dockerfile décortiqué
 
  * `FROM alias-image` permet de télécharger une image situé sur le [docker hub](https://hub.docker.com/search?q=&type=image). C'est la première commande car il faut d'abord importer python afin de lancer l'installation des packages via `pip`. Le mot clé alias-image représente l'alias d'une image hébergé sur le docker hub. Pour les applications python dockerisés, si le souci de place n'est pas une priorité, il vaut mieux choisir une `buster` image. Il s'agit du mot clé utilisé pour parler d'une version python complète. `FROM python:3.7-buster`  est une bonne valeur par défaut
