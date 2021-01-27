@@ -30,6 +30,16 @@ Il y a globalement deux facons de faire:
 
 ***
 
+### Récupérer en local les files présents dans un container
+
+ 1. Récupérer l'id ou bien le name du container en question en faisant : sudo docker ps -all
+ 2. Rappatrier le fichier en question dans le folder data : `sudo docker cp <NAME or ID>:<CONTAINER_PATH> <HOST_PATH>`
+ 3. Exemple avec id : `sudo docker cp 04546594ef54:/app/output.json data/output.json`
+ 4. Exemple en utilisant le name du container : `sudo docker cp gallant_mclaren:/app/output.json data/output.json`
+
+
+***
+
 ### Vocabulaire
 
  1. On build une image, qui contient une application/service
