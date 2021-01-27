@@ -141,6 +141,7 @@ def BigTask(args):
    
     L = Load_and_Sort(filename)
     Filtered_List = Filter_List(L,threshold)
+    print("Nombre d'artistes retenus :",len(Filtered_List))
     Write_Files(Filtered_List,ndockers,folder_output)
    
     return None
