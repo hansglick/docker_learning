@@ -1,0 +1,17 @@
+FROM continuumio/miniconda3
+
+WORKDIR /app
+
+# Create the environment:
+COPY requirements.txt .
+RUN python -m pip install -r requirements.txt
+
+
+# Make sure the environment is activated:
+RUN echo "Make sure flask is installed:"
+RUN python -c "environnement correctly installed"
+
+# The code to run when container is started:
+COPY grabber.py .
+COPY fun.py .
+ENTRYPOINT ["conda", "run", "-n", "myenv", "python", "grabber.py","-a","jeff","mills","-f,"disco.json"]

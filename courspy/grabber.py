@@ -1,7 +1,13 @@
+# -*- coding: utf-8 -*-
+
+
 import argparse
+import sys
 import json
 from spotipy.oauth2 import SpotifyClientCredentials
+from tqdm import tqdm_notebook
 import spotipy
+import pandas as pd
 from fun import *
 
 def extract_tracks(args):

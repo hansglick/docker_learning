@@ -1,19 +1,18 @@
-FROM continuumio/miniconda3
+# set base image (host OS)
+FROM python:3.8
 
-WORKDIR /app
+# set the working directory in the container
+WORKDIR /code
 
-# Create the environment:
-COPY env.yml .
-RUN conda env create -f env.yml
+# copy the dependencies file to the working directory
+COPY requirements.txt .
 
-# Make RUN commands use the new environment:
-SHELL ["conda", "run", "-n", "myenv", "/bin/bash", "-c"]
+# install dependencies
+RUN pip install -r requirements.txt
 
-# Make sure the environment is activated:
-RUN echo "Make sure flask is installed:"
-RUN python -c "environnement correctly installed"
+# copy the content of the local src directory to the working directory
+COPY src/ .
 
-# The code to run when container is started:
-COPY grabber.py .
-COPY fun.py .
-ENTRYPOINT ["conda", "run", "-n", "myenv", "python", "grabber.py","-a","jeff","mills","-f,"disco.json"]
+# command to run on container start
+CMD [ "python", "grabber.py","-a","james","ruskin","-f","james_ruskin_discographie.json" ]
+

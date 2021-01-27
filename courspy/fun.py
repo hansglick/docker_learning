@@ -1,5 +1,11 @@
+# -*- coding: utf-8 -*-
+
+
 from spotipy.oauth2 import SpotifyClientCredentials #To access authorised Spotify data
+from tqdm import tqdm_notebook
 import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+import pandas as pd
 
 client_id = '468641629111454b95f33e0be7eb09a2'
 client_secret = 'b918bb0cd7dc4e7e925decce5b229710'
