@@ -3,7 +3,7 @@
 L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le projet [MUSIC PLAYGROUND](https://github.com/hansglick/music_playground)
 
 
-<img src="img/docker.PNG" width="400">
+<img src="img/docker_larger.PNG" width="700">
 
 ### Pourquoi utiliser Docker?
 
