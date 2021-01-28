@@ -3,6 +3,8 @@
 L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le projet [MUSIC PLAYGROUND](https://github.com/hansglick/music_playground)
 
 
+<img src="img/docker.PNG" width="400">
+
 ### Pourquoi utiliser Docker?
 
 Docker est utile pour déployer une application de **type service**. Un service répond à une question précise. Typiquement, dans le machine learning supervisé, les services possibles sont :  
