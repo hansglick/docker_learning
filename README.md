@@ -5,6 +5,30 @@ L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le
 
 <img src="img/docker_larger.PNG" width="700">
 
+### Organisation du repository 
+
+ * [Image docker hello world](https://github.com/hansglick/docker_learning/tree/master/toyexample) :
+   * Installation de `flask`
+   * Print d'un message bidon
+ * [image docker Grab Discography](https://github.com/hansglick/docker_learning/tree/master/discography_w_arguments) :
+   * Installation de tout les packages python du projet music_playground
+   * Récupération de la discographie d'un artiste via l'API Spotify
+   * Passage d'arguments dans le `docker run`
+ * [image docker Grab Discographies](https://github.com/hansglick/docker_learning/tree/master/discography_mutiple_artists)
+   * Installation de tout les packages python du projet music_playground
+   * Récupération **DES** discographies d'une liste d'artistes représentés par un fichier input `artists.txt`
+   * Le fichier `artists.txt` est montée au moment du `docker run` 
+ * [image docker Finale](https://github.com/hansglick/docker_learning/tree/master/discography_shell)
+   * Installation de tout les packages python **et linux** du projet music_playground
+   * Application finale dockerisée du projet [music_playground](https://github.com/hansglick/music_playground)
+   * Récupération des discographies
+   * Récupération des urls des tracks sur Youtube
+   * Téléchargements des tracks au format mp3
+   * Récupération des commentaires YouTube des tracks
+   * Récupération de meta data subsidiaires (nombre de vues, likes, dislikes, etc.)
+   * Copie intégrale des fichiers crées dans le container en local
+***
+
 ### Pourquoi utiliser Docker?
 
 Docker est utile pour déployer une application de **type service**. Un service répond à une question précise. Typiquement, dans le machine learning supervisé, les services possibles sont :  
