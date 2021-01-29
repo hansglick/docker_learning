@@ -1,0 +1,2004 @@
+[
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 161573,
+        "features": {
+            "acousticness": 0.702,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7KZU1NqzvBVj5niqluTFod",
+            "danceability": 0.288,
+            "duration_ms": 161573,
+            "energy": 0.489,
+            "id": "7KZU1NqzvBVj5niqluTFod",
+            "instrumentalness": 0.629,
+            "key": 7,
+            "liveness": 0.1,
+            "loudness": -10.342,
+            "mode": 0,
+            "speechiness": 0.0346,
+            "tempo": 115.16,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7KZU1NqzvBVj5niqluTFod",
+            "type": "audio_features",
+            "uri": "spotify:track:7KZU1NqzvBVj5niqluTFod",
+            "valence": 0.0387
+        },
+        "featuring": [],
+        "name": "Abysse",
+        "piste": 1,
+        "track": "spotify:track:7KZU1NqzvBVj5niqluTFod"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 257786,
+        "features": {
+            "acousticness": 0.288,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2DK4E7kLhhpffTtDuIwblR",
+            "danceability": 0.771,
+            "duration_ms": 257787,
+            "energy": 0.776,
+            "id": "2DK4E7kLhhpffTtDuIwblR",
+            "instrumentalness": 0.0352,
+            "key": 8,
+            "liveness": 0.308,
+            "loudness": -6.406,
+            "mode": 1,
+            "speechiness": 0.0319,
+            "tempo": 112.007,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2DK4E7kLhhpffTtDuIwblR",
+            "type": "audio_features",
+            "uri": "spotify:track:2DK4E7kLhhpffTtDuIwblR",
+            "valence": 0.253
+        },
+        "featuring": [],
+        "name": "Aqualand",
+        "piste": 2,
+        "track": "spotify:track:2DK4E7kLhhpffTtDuIwblR"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 276253,
+        "features": {
+            "acousticness": 0.102,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DmJ390x0h8IePKoCwArUC",
+            "danceability": 0.704,
+            "duration_ms": 276253,
+            "energy": 0.683,
+            "id": "3DmJ390x0h8IePKoCwArUC",
+            "instrumentalness": 0.0126,
+            "key": 5,
+            "liveness": 0.0891,
+            "loudness": -6.585,
+            "mode": 0,
+            "speechiness": 0.0303,
+            "tempo": 96.013,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3DmJ390x0h8IePKoCwArUC",
+            "type": "audio_features",
+            "uri": "spotify:track:3DmJ390x0h8IePKoCwArUC",
+            "valence": 0.388
+        },
+        "featuring": [],
+        "name": "Canop\u00e9e",
+        "piste": 3,
+        "track": "spotify:track:3DmJ390x0h8IePKoCwArUC"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 231306,
+        "features": {
+            "acousticness": 0.0654,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Xxm7QcK7J6D4T0573LleL",
+            "danceability": 0.777,
+            "duration_ms": 231307,
+            "energy": 0.588,
+            "id": "4Xxm7QcK7J6D4T0573LleL",
+            "instrumentalness": 0.000276,
+            "key": 7,
+            "liveness": 0.091,
+            "loudness": -7.903,
+            "mode": 0,
+            "speechiness": 0.0354,
+            "tempo": 115.985,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4Xxm7QcK7J6D4T0573LleL",
+            "type": "audio_features",
+            "uri": "spotify:track:4Xxm7QcK7J6D4T0573LleL",
+            "valence": 0.451
+        },
+        "featuring": [],
+        "name": "Arc-en-ciel",
+        "piste": 4,
+        "track": "spotify:track:4Xxm7QcK7J6D4T0573LleL"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 209773,
+        "features": {
+            "acousticness": 0.0491,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1L9oEp6R7qFyAlOeyLnOji",
+            "danceability": 0.677,
+            "duration_ms": 209773,
+            "energy": 0.854,
+            "id": "1L9oEp6R7qFyAlOeyLnOji",
+            "instrumentalness": 0.419,
+            "key": 7,
+            "liveness": 0.0815,
+            "loudness": -6.955,
+            "mode": 1,
+            "speechiness": 0.0384,
+            "tempo": 94.01,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1L9oEp6R7qFyAlOeyLnOji",
+            "type": "audio_features",
+            "uri": "spotify:track:1L9oEp6R7qFyAlOeyLnOji",
+            "valence": 0.504
+        },
+        "featuring": [],
+        "name": "Zoom Zoom",
+        "piste": 5,
+        "track": "spotify:track:1L9oEp6R7qFyAlOeyLnOji"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 190866,
+        "features": {
+            "acousticness": 0.187,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/77nbIFtn6K7TEQKl8FVO5H",
+            "danceability": 0.687,
+            "duration_ms": 190867,
+            "energy": 0.74,
+            "id": "77nbIFtn6K7TEQKl8FVO5H",
+            "instrumentalness": 0.0792,
+            "key": 4,
+            "liveness": 0.24,
+            "loudness": -6.305,
+            "mode": 0,
+            "speechiness": 0.0335,
+            "tempo": 94.01,
+            "time_signature": 3,
+            "track_href": "https://api.spotify.com/v1/tracks/77nbIFtn6K7TEQKl8FVO5H",
+            "type": "audio_features",
+            "uri": "spotify:track:77nbIFtn6K7TEQKl8FVO5H",
+            "valence": 0.381
+        },
+        "featuring": [],
+        "name": "Nan\u00e3",
+        "piste": 6,
+        "track": "spotify:track:77nbIFtn6K7TEQKl8FVO5H"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 421760,
+        "features": {
+            "acousticness": 0.106,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Sl1RVQbD9PigheYMG7yAP",
+            "danceability": 0.825,
+            "duration_ms": 421760,
+            "energy": 0.524,
+            "id": "5Sl1RVQbD9PigheYMG7yAP",
+            "instrumentalness": 0.00475,
+            "key": 8,
+            "liveness": 0.0765,
+            "loudness": -8.706,
+            "mode": 0,
+            "speechiness": 0.0522,
+            "tempo": 115.003,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5Sl1RVQbD9PigheYMG7yAP",
+            "type": "audio_features",
+            "uri": "spotify:track:5Sl1RVQbD9PigheYMG7yAP",
+            "valence": 0.537
+        },
+        "featuring": [],
+        "name": "Bakara",
+        "piste": 7,
+        "track": "spotify:track:5Sl1RVQbD9PigheYMG7yAP"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 316893,
+        "features": {
+            "acousticness": 0.0188,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7c4mqbHVoReN7hBQ3rLbum",
+            "danceability": 0.804,
+            "duration_ms": 316893,
+            "energy": 0.462,
+            "id": "7c4mqbHVoReN7hBQ3rLbum",
+            "instrumentalness": 0.385,
+            "key": 8,
+            "liveness": 0.0965,
+            "loudness": -9.578,
+            "mode": 1,
+            "speechiness": 0.0554,
+            "tempo": 117.989,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7c4mqbHVoReN7hBQ3rLbum",
+            "type": "audio_features",
+            "uri": "spotify:track:7c4mqbHVoReN7hBQ3rLbum",
+            "valence": 0.418
+        },
+        "featuring": [],
+        "name": "Dorothy",
+        "piste": 8,
+        "track": "spotify:track:7c4mqbHVoReN7hBQ3rLbum"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 247160,
+        "features": {
+            "acousticness": 0.00915,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7E4hJc1zqsWlQaOibAReAT",
+            "danceability": 0.795,
+            "duration_ms": 247160,
+            "energy": 0.55,
+            "id": "7E4hJc1zqsWlQaOibAReAT",
+            "instrumentalness": 0.905,
+            "key": 9,
+            "liveness": 0.115,
+            "loudness": -11.371,
+            "mode": 1,
+            "speechiness": 0.0522,
+            "tempo": 119.999,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7E4hJc1zqsWlQaOibAReAT",
+            "type": "audio_features",
+            "uri": "spotify:track:7E4hJc1zqsWlQaOibAReAT",
+            "valence": 0.338
+        },
+        "featuring": [],
+        "name": "Jacquadi",
+        "piste": 9,
+        "track": "spotify:track:7E4hJc1zqsWlQaOibAReAT"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 306840,
+        "features": {
+            "acousticness": 0.0531,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Bwa9PjB0nP1bHqzFdhfbM",
+            "danceability": 0.827,
+            "duration_ms": 306840,
+            "energy": 0.634,
+            "id": "2Bwa9PjB0nP1bHqzFdhfbM",
+            "instrumentalness": 0.9,
+            "key": 0,
+            "liveness": 0.171,
+            "loudness": -5.187,
+            "mode": 1,
+            "speechiness": 0.072,
+            "tempo": 121.017,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2Bwa9PjB0nP1bHqzFdhfbM",
+            "type": "audio_features",
+            "uri": "spotify:track:2Bwa9PjB0nP1bHqzFdhfbM",
+            "valence": 0.0388
+        },
+        "featuring": [],
+        "name": "Kirghiz",
+        "piste": 10,
+        "track": "spotify:track:2Bwa9PjB0nP1bHqzFdhfbM"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 373080,
+        "features": {
+            "acousticness": 0.0185,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3skWl2V8kHFHEZGFaJCbwS",
+            "danceability": 0.749,
+            "duration_ms": 373080,
+            "energy": 0.825,
+            "id": "3skWl2V8kHFHEZGFaJCbwS",
+            "instrumentalness": 0.468,
+            "key": 8,
+            "liveness": 0.104,
+            "loudness": -5.119,
+            "mode": 1,
+            "speechiness": 0.0335,
+            "tempo": 121.014,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3skWl2V8kHFHEZGFaJCbwS",
+            "type": "audio_features",
+            "uri": "spotify:track:3skWl2V8kHFHEZGFaJCbwS",
+            "valence": 0.577
+        },
+        "featuring": [],
+        "name": "Mexicali",
+        "piste": 11,
+        "track": "spotify:track:3skWl2V8kHFHEZGFaJCbwS"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 209600,
+        "features": {
+            "acousticness": 0.173,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Xf5kqxFh9ttmFUjeX9J0w",
+            "danceability": 0.715,
+            "duration_ms": 209600,
+            "energy": 0.727,
+            "id": "6Xf5kqxFh9ttmFUjeX9J0w",
+            "instrumentalness": 0.106,
+            "key": 3,
+            "liveness": 0.0862,
+            "loudness": -8.225,
+            "mode": 1,
+            "speechiness": 0.0447,
+            "tempo": 97.006,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6Xf5kqxFh9ttmFUjeX9J0w",
+            "type": "audio_features",
+            "uri": "spotify:track:6Xf5kqxFh9ttmFUjeX9J0w",
+            "valence": 0.5
+        },
+        "featuring": [],
+        "name": "C\u0153ur d'artichaut",
+        "piste": 12,
+        "track": "spotify:track:6Xf5kqxFh9ttmFUjeX9J0w"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 231933,
+        "features": {
+            "acousticness": 0.501,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ohKzhtHZiUe0NdsyLpGjI",
+            "danceability": 0.758,
+            "duration_ms": 231933,
+            "energy": 0.517,
+            "id": "2ohKzhtHZiUe0NdsyLpGjI",
+            "instrumentalness": 0.0494,
+            "key": 5,
+            "liveness": 0.103,
+            "loudness": -8.022,
+            "mode": 0,
+            "speechiness": 0.0245,
+            "tempo": 96.999,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2ohKzhtHZiUe0NdsyLpGjI",
+            "type": "audio_features",
+            "uri": "spotify:track:2ohKzhtHZiUe0NdsyLpGjI",
+            "valence": 0.455
+        },
+        "featuring": [],
+        "name": "Plage isol\u00e9e (soleil levant)",
+        "piste": 13,
+        "track": "spotify:track:2ohKzhtHZiUe0NdsyLpGjI"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 203346,
+        "features": {
+            "acousticness": 0.471,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4V4SroHS7zs9KkG6X1CEPF",
+            "danceability": 0.701,
+            "duration_ms": 203347,
+            "energy": 0.823,
+            "id": "4V4SroHS7zs9KkG6X1CEPF",
+            "instrumentalness": 0.00336,
+            "key": 9,
+            "liveness": 0.149,
+            "loudness": -6.338,
+            "mode": 0,
+            "speechiness": 0.0337,
+            "tempo": 148.011,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4V4SroHS7zs9KkG6X1CEPF",
+            "type": "audio_features",
+            "uri": "spotify:track:4V4SroHS7zs9KkG6X1CEPF",
+            "valence": 0.487
+        },
+        "featuring": [],
+        "name": "C\u0153ur crois\u00e9",
+        "piste": 14,
+        "track": "spotify:track:4V4SroHS7zs9KkG6X1CEPF"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 310146,
+        "features": {
+            "acousticness": 0.671,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6RpKyvo8wG2JDzJ9PVS5uK",
+            "danceability": 0.645,
+            "duration_ms": 310147,
+            "energy": 0.604,
+            "id": "6RpKyvo8wG2JDzJ9PVS5uK",
+            "instrumentalness": 0.000615,
+            "key": 10,
+            "liveness": 0.28,
+            "loudness": -7.588,
+            "mode": 1,
+            "speechiness": 0.0374,
+            "tempo": 104.967,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6RpKyvo8wG2JDzJ9PVS5uK",
+            "type": "audio_features",
+            "uri": "spotify:track:6RpKyvo8wG2JDzJ9PVS5uK",
+            "valence": 0.298
+        },
+        "featuring": [],
+        "name": "Chasseur d'ivoire",
+        "piste": 15,
+        "track": "spotify:track:6RpKyvo8wG2JDzJ9PVS5uK"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 290280,
+        "features": {
+            "acousticness": 0.766,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VlrcqaZ4taI8VxLgvzweP",
+            "danceability": 0.337,
+            "duration_ms": 290280,
+            "energy": 0.531,
+            "id": "5VlrcqaZ4taI8VxLgvzweP",
+            "instrumentalness": 0.00202,
+            "key": 1,
+            "liveness": 0.0892,
+            "loudness": -5.656,
+            "mode": 1,
+            "speechiness": 0.0288,
+            "tempo": 79.976,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5VlrcqaZ4taI8VxLgvzweP",
+            "type": "audio_features",
+            "uri": "spotify:track:5VlrcqaZ4taI8VxLgvzweP",
+            "valence": 0.066
+        },
+        "featuring": [],
+        "name": "Pays imaginaire",
+        "piste": 16,
+        "track": "spotify:track:5VlrcqaZ4taI8VxLgvzweP"
+    },
+    {
+        "album": {
+            "name": "Caravelle (Deluxe)",
+            "type": "album",
+            "uri": "spotify:album:50ZFAeGxaNWSMjHfQOkzJK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 246826,
+        "features": {
+            "acousticness": 0.305,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0gkECv2m41sH5EEYeDXv29",
+            "danceability": 0.607,
+            "duration_ms": 246827,
+            "energy": 0.546,
+            "id": "0gkECv2m41sH5EEYeDXv29",
+            "instrumentalness": 0.0449,
+            "key": 5,
+            "liveness": 0.108,
+            "loudness": -7.394,
+            "mode": 0,
+            "speechiness": 0.0769,
+            "tempo": 95.931,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0gkECv2m41sH5EEYeDXv29",
+            "type": "audio_features",
+            "uri": "spotify:track:0gkECv2m41sH5EEYeDXv29",
+            "valence": 0.332
+        },
+        "featuring": [
+            [
+                "spotify:artist:0Wkm45quqfx3NepJpXDvwE",
+                "Superorganism"
+            ]
+        ],
+        "name": "Canop\u00e9e - Superorganism Remix",
+        "piste": 17,
+        "track": "spotify:track:0gkECv2m41sH5EEYeDXv29"
+    },
+    {
+        "album": {
+            "name": "Dorothy",
+            "type": "album",
+            "uri": "spotify:album:7lJXrA1jzqGVpLUyLIYXLK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 311575,
+        "features": {
+            "acousticness": 0.112,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6HPSzboswlKS4Juf6UvyPA",
+            "danceability": 0.553,
+            "duration_ms": 311576,
+            "energy": 0.511,
+            "id": "6HPSzboswlKS4Juf6UvyPA",
+            "instrumentalness": 0.911,
+            "key": 0,
+            "liveness": 0.119,
+            "loudness": -10.079,
+            "mode": 1,
+            "speechiness": 0.0625,
+            "tempo": 92.887,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6HPSzboswlKS4Juf6UvyPA",
+            "type": "audio_features",
+            "uri": "spotify:track:6HPSzboswlKS4Juf6UvyPA",
+            "valence": 0.465
+        },
+        "featuring": [],
+        "name": "Rivolta",
+        "piste": 3,
+        "track": "spotify:track:6HPSzboswlKS4Juf6UvyPA"
+    },
+    {
+        "album": {
+            "name": "Dorothy",
+            "type": "album",
+            "uri": "spotify:album:7lJXrA1jzqGVpLUyLIYXLK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 317207,
+        "features": {
+            "acousticness": 0.372,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/25KQ7BI8UIbWlyK9QqaTlr",
+            "danceability": 0.789,
+            "duration_ms": 317208,
+            "energy": 0.569,
+            "id": "25KQ7BI8UIbWlyK9QqaTlr",
+            "instrumentalness": 0.883,
+            "key": 1,
+            "liveness": 0.0577,
+            "loudness": -9.858,
+            "mode": 1,
+            "speechiness": 0.075,
+            "tempo": 112.99,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/25KQ7BI8UIbWlyK9QqaTlr",
+            "type": "audio_features",
+            "uri": "spotify:track:25KQ7BI8UIbWlyK9QqaTlr",
+            "valence": 0.182
+        },
+        "featuring": [],
+        "name": "Dragon Pom Z",
+        "piste": 4,
+        "track": "spotify:track:25KQ7BI8UIbWlyK9QqaTlr"
+    },
+    {
+        "album": {
+            "name": "Dorothy",
+            "type": "album",
+            "uri": "spotify:album:7lJXrA1jzqGVpLUyLIYXLK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 361977,
+        "features": {
+            "acousticness": 7.85e-05,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4FTv86ZHjJhQs7O11wDvF3",
+            "danceability": 0.854,
+            "duration_ms": 361977,
+            "energy": 0.583,
+            "id": "4FTv86ZHjJhQs7O11wDvF3",
+            "instrumentalness": 0.895,
+            "key": 11,
+            "liveness": 0.0432,
+            "loudness": -6.911,
+            "mode": 1,
+            "speechiness": 0.0461,
+            "tempo": 122.004,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4FTv86ZHjJhQs7O11wDvF3",
+            "type": "audio_features",
+            "uri": "spotify:track:4FTv86ZHjJhQs7O11wDvF3",
+            "valence": 0.587
+        },
+        "featuring": [
+            [
+                "spotify:artist:7JmWc7RWsx9ga8HNet7sjx",
+                "In Flagranti"
+            ]
+        ],
+        "name": "Dorothy - In Flagranti Remix",
+        "piste": 5,
+        "track": "spotify:track:4FTv86ZHjJhQs7O11wDvF3"
+    },
+    {
+        "album": {
+            "name": "Dorothy",
+            "type": "album",
+            "uri": "spotify:album:7lJXrA1jzqGVpLUyLIYXLK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 360901,
+        "features": {
+            "acousticness": 0.00106,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eCVwSvetPsgWTEw68XMEk",
+            "danceability": 0.712,
+            "duration_ms": 360902,
+            "energy": 0.713,
+            "id": "2eCVwSvetPsgWTEw68XMEk",
+            "instrumentalness": 0.236,
+            "key": 0,
+            "liveness": 0.145,
+            "loudness": -8.291,
+            "mode": 1,
+            "speechiness": 0.0441,
+            "tempo": 115.461,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2eCVwSvetPsgWTEw68XMEk",
+            "type": "audio_features",
+            "uri": "spotify:track:2eCVwSvetPsgWTEw68XMEk",
+            "valence": 0.724
+        },
+        "featuring": [
+            [
+                "spotify:artist:7rD5LmiOh6Zbsgk2fBmy41",
+                "Get a Room!"
+            ]
+        ],
+        "name": "Rivolta - Get A Room! Remix",
+        "piste": 6,
+        "track": "spotify:track:2eCVwSvetPsgWTEw68XMEk"
+    },
+    {
+        "album": {
+            "name": "Feel Good",
+            "type": "single",
+            "uri": "spotify:album:10H4nbqjbmrGo4bG23dfWK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 240053,
+        "features": {
+            "acousticness": 0.234,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ZFsgzYeQuF8IbQgmju5ap",
+            "danceability": 0.643,
+            "duration_ms": 240053,
+            "energy": 0.752,
+            "id": "1ZFsgzYeQuF8IbQgmju5ap",
+            "instrumentalness": 0.192,
+            "key": 2,
+            "liveness": 0.821,
+            "loudness": -6.536,
+            "mode": 0,
+            "speechiness": 0.039,
+            "tempo": 96.001,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1ZFsgzYeQuF8IbQgmju5ap",
+            "type": "audio_features",
+            "uri": "spotify:track:1ZFsgzYeQuF8IbQgmju5ap",
+            "valence": 0.582
+        },
+        "featuring": [],
+        "name": "Feel Good",
+        "piste": 1,
+        "track": "spotify:track:1ZFsgzYeQuF8IbQgmju5ap"
+    },
+    {
+        "album": {
+            "name": "Feel Good",
+            "type": "single",
+            "uri": "spotify:album:10H4nbqjbmrGo4bG23dfWK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 224746,
+        "features": {
+            "acousticness": 0.166,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0aTaTaROrLwQokUSudVKIe",
+            "danceability": 0.769,
+            "duration_ms": 224747,
+            "energy": 0.641,
+            "id": "0aTaTaROrLwQokUSudVKIe",
+            "instrumentalness": 0.507,
+            "key": 9,
+            "liveness": 0.0983,
+            "loudness": -8.408,
+            "mode": 0,
+            "speechiness": 0.0505,
+            "tempo": 149.003,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0aTaTaROrLwQokUSudVKIe",
+            "type": "audio_features",
+            "uri": "spotify:track:0aTaTaROrLwQokUSudVKIe",
+            "valence": 0.877
+        },
+        "featuring": [],
+        "name": "Attrape-r\u00eave",
+        "piste": 2,
+        "track": "spotify:track:0aTaTaROrLwQokUSudVKIe"
+    },
+    {
+        "album": {
+            "name": "Feel Good",
+            "type": "single",
+            "uri": "spotify:album:10H4nbqjbmrGo4bG23dfWK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 250333,
+        "features": {
+            "acousticness": 0.306,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/74N9cnVOhruZpoZUt4Ky5z",
+            "danceability": 0.745,
+            "duration_ms": 250333,
+            "energy": 0.892,
+            "id": "74N9cnVOhruZpoZUt4Ky5z",
+            "instrumentalness": 0.939,
+            "key": 5,
+            "liveness": 0.115,
+            "loudness": -6.823,
+            "mode": 0,
+            "speechiness": 0.0349,
+            "tempo": 116.003,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/74N9cnVOhruZpoZUt4Ky5z",
+            "type": "audio_features",
+            "uri": "spotify:track:74N9cnVOhruZpoZUt4Ky5z",
+            "valence": 0.257
+        },
+        "featuring": [],
+        "name": "Pili Pili",
+        "piste": 3,
+        "track": "spotify:track:74N9cnVOhruZpoZUt4Ky5z"
+    },
+    {
+        "album": {
+            "name": "Feel Good",
+            "type": "single",
+            "uri": "spotify:album:10H4nbqjbmrGo4bG23dfWK"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 237680,
+        "features": {
+            "acousticness": 0.726,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CIkvtqLxM5mwDaItJDVuP",
+            "danceability": 0.709,
+            "duration_ms": 237680,
+            "energy": 0.327,
+            "id": "7CIkvtqLxM5mwDaItJDVuP",
+            "instrumentalness": 0.0246,
+            "key": 5,
+            "liveness": 0.0851,
+            "loudness": -13.404,
+            "mode": 1,
+            "speechiness": 0.0327,
+            "tempo": 126.057,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7CIkvtqLxM5mwDaItJDVuP",
+            "type": "audio_features",
+            "uri": "spotify:track:7CIkvtqLxM5mwDaItJDVuP",
+            "valence": 0.438
+        },
+        "featuring": [
+            [
+                "spotify:artist:5Z1r1R8kuSh4FRdQh7kzmC",
+                "Antonin"
+            ]
+        ],
+        "name": "Peter Pan",
+        "piste": 4,
+        "track": "spotify:track:7CIkvtqLxM5mwDaItJDVuP"
+    },
+    {
+        "album": {
+            "name": "Gengis",
+            "type": "single",
+            "uri": "spotify:album:7lTn1zyy0duOEeypiqzmcr"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 430306,
+        "features": {
+            "acousticness": 0.353,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/546GqLBcLLAigBK5DXc1R8",
+            "danceability": 0.702,
+            "duration_ms": 430307,
+            "energy": 0.554,
+            "id": "546GqLBcLLAigBK5DXc1R8",
+            "instrumentalness": 0.894,
+            "key": 8,
+            "liveness": 0.171,
+            "loudness": -9.13,
+            "mode": 1,
+            "speechiness": 0.0427,
+            "tempo": 122.0,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/546GqLBcLLAigBK5DXc1R8",
+            "type": "audio_features",
+            "uri": "spotify:track:546GqLBcLLAigBK5DXc1R8",
+            "valence": 0.0938
+        },
+        "featuring": [],
+        "name": "Gengis",
+        "piste": 1,
+        "track": "spotify:track:546GqLBcLLAigBK5DXc1R8"
+    },
+    {
+        "album": {
+            "name": "Gengis",
+            "type": "single",
+            "uri": "spotify:album:7lTn1zyy0duOEeypiqzmcr"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 231934,
+        "features": {
+            "acousticness": 0.391,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1pYSFtyZaRyP4bwazfm5cy",
+            "danceability": 0.682,
+            "duration_ms": 231934,
+            "energy": 0.582,
+            "id": "1pYSFtyZaRyP4bwazfm5cy",
+            "instrumentalness": 0.856,
+            "key": 5,
+            "liveness": 0.0872,
+            "loudness": -8.798,
+            "mode": 0,
+            "speechiness": 0.0439,
+            "tempo": 121.998,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1pYSFtyZaRyP4bwazfm5cy",
+            "type": "audio_features",
+            "uri": "spotify:track:1pYSFtyZaRyP4bwazfm5cy",
+            "valence": 0.111
+        },
+        "featuring": [],
+        "name": "Gengis - Edit",
+        "piste": 2,
+        "track": "spotify:track:1pYSFtyZaRyP4bwazfm5cy"
+    },
+    {
+        "album": {
+            "name": "Gengis",
+            "type": "single",
+            "uri": "spotify:album:7lTn1zyy0duOEeypiqzmcr"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 367666,
+        "features": {
+            "acousticness": 0.232,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5di4UhmySUYN28zggWB3uf",
+            "danceability": 0.8,
+            "duration_ms": 367667,
+            "energy": 0.763,
+            "id": "5di4UhmySUYN28zggWB3uf",
+            "instrumentalness": 0.862,
+            "key": 8,
+            "liveness": 0.218,
+            "loudness": -10.832,
+            "mode": 1,
+            "speechiness": 0.0471,
+            "tempo": 119.989,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5di4UhmySUYN28zggWB3uf",
+            "type": "audio_features",
+            "uri": "spotify:track:5di4UhmySUYN28zggWB3uf",
+            "valence": 0.469
+        },
+        "featuring": [
+            [
+                "spotify:artist:0zRfSoVzQ7hRt9y3yUFoqw",
+                "ASA MOTO"
+            ]
+        ],
+        "name": "Gengis - Asa Moto Remix",
+        "piste": 3,
+        "track": "spotify:track:5di4UhmySUYN28zggWB3uf"
+    },
+    {
+        "album": {
+            "name": "Gengis",
+            "type": "single",
+            "uri": "spotify:album:7lTn1zyy0duOEeypiqzmcr"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 447800,
+        "features": {
+            "acousticness": 0.072,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3eRrnxpVwuHyieL0s2NdZc",
+            "danceability": 0.687,
+            "duration_ms": 447800,
+            "energy": 0.937,
+            "id": "3eRrnxpVwuHyieL0s2NdZc",
+            "instrumentalness": 0.851,
+            "key": 8,
+            "liveness": 0.099,
+            "loudness": -8.25,
+            "mode": 1,
+            "speechiness": 0.0419,
+            "tempo": 120.009,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3eRrnxpVwuHyieL0s2NdZc",
+            "type": "audio_features",
+            "uri": "spotify:track:3eRrnxpVwuHyieL0s2NdZc",
+            "valence": 0.509
+        },
+        "featuring": [
+            [
+                "spotify:artist:5Owm9QgL9BSCRQKTX6T08G",
+                "Red Axes"
+            ]
+        ],
+        "name": "Gengis - Red Axes Remix",
+        "piste": 4,
+        "track": "spotify:track:3eRrnxpVwuHyieL0s2NdZc"
+    },
+    {
+        "album": {
+            "name": "Everybody Wants To Be Famous (Polo & Pan Remix)",
+            "type": "single",
+            "uri": "spotify:album:6RFpQdMjABuf2BYLg52fhA"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 245549,
+        "features": {
+            "acousticness": 0.466,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/503vdoSokVEcTKqmDTNjco",
+            "danceability": 0.692,
+            "duration_ms": 245549,
+            "energy": 0.841,
+            "id": "503vdoSokVEcTKqmDTNjco",
+            "instrumentalness": 0.0346,
+            "key": 5,
+            "liveness": 0.0842,
+            "loudness": -6.331,
+            "mode": 1,
+            "speechiness": 0.0729,
+            "tempo": 97.029,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/503vdoSokVEcTKqmDTNjco",
+            "type": "audio_features",
+            "uri": "spotify:track:503vdoSokVEcTKqmDTNjco",
+            "valence": 0.522
+        },
+        "featuring": [
+            [
+                "spotify:artist:0Wkm45quqfx3NepJpXDvwE",
+                "Superorganism"
+            ]
+        ],
+        "name": "Everybody Wants To Be Famous - Polo & Pan Remix",
+        "piste": 1,
+        "track": "spotify:track:503vdoSokVEcTKqmDTNjco"
+    },
+    {
+        "album": {
+            "name": "Mexicali (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:6GA7AILG5njq9muNQH2yoL"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 540284,
+        "features": {
+            "acousticness": 0.00437,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/245lzgTwfV7cR0iQTTElol",
+            "danceability": 0.706,
+            "duration_ms": 540285,
+            "energy": 0.741,
+            "id": "245lzgTwfV7cR0iQTTElol",
+            "instrumentalness": 0.757,
+            "key": 7,
+            "liveness": 0.569,
+            "loudness": -8.718,
+            "mode": 1,
+            "speechiness": 0.0403,
+            "tempo": 121.006,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/245lzgTwfV7cR0iQTTElol",
+            "type": "audio_features",
+            "uri": "spotify:track:245lzgTwfV7cR0iQTTElol",
+            "valence": 0.208
+        },
+        "featuring": [
+            [
+                "spotify:artist:36oy3scxRLRqG8uptf04vG",
+                "Simple Symmetry"
+            ]
+        ],
+        "name": "Mexicali - Simple Symmetry Remix",
+        "piste": 2,
+        "track": "spotify:track:245lzgTwfV7cR0iQTTElol"
+    },
+    {
+        "album": {
+            "name": "Mexicali (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:6GA7AILG5njq9muNQH2yoL"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 324568,
+        "features": {
+            "acousticness": 0.0843,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Cj4nUWuBcQp17ltwTiMsr",
+            "danceability": 0.848,
+            "duration_ms": 324569,
+            "energy": 0.697,
+            "id": "2Cj4nUWuBcQp17ltwTiMsr",
+            "instrumentalness": 0.248,
+            "key": 1,
+            "liveness": 0.0617,
+            "loudness": -9.302,
+            "mode": 1,
+            "speechiness": 0.0441,
+            "tempo": 114.002,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2Cj4nUWuBcQp17ltwTiMsr",
+            "type": "audio_features",
+            "uri": "spotify:track:2Cj4nUWuBcQp17ltwTiMsr",
+            "valence": 0.298
+        },
+        "featuring": [
+            [
+                "spotify:artist:0RqwV2D7pE9Pzjr0JCEMlU",
+                "Manfredas"
+            ]
+        ],
+        "name": "Mexicali - Manfredas Remix",
+        "piste": 3,
+        "track": "spotify:track:2Cj4nUWuBcQp17ltwTiMsr"
+    },
+    {
+        "album": {
+            "name": "Mexicali (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:6GA7AILG5njq9muNQH2yoL"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 357142,
+        "features": {
+            "acousticness": 0.0475,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6igfN4JSpw1T7j7Ov6h11F",
+            "danceability": 0.699,
+            "duration_ms": 357143,
+            "energy": 0.773,
+            "id": "6igfN4JSpw1T7j7Ov6h11F",
+            "instrumentalness": 0.741,
+            "key": 0,
+            "liveness": 0.167,
+            "loudness": -8.16,
+            "mode": 0,
+            "speechiness": 0.0453,
+            "tempo": 120.003,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6igfN4JSpw1T7j7Ov6h11F",
+            "type": "audio_features",
+            "uri": "spotify:track:6igfN4JSpw1T7j7Ov6h11F",
+            "valence": 0.798
+        },
+        "featuring": [
+            [
+                "spotify:artist:0u4N2KHhXxQq78YyCxkCOA",
+                "Pilooski"
+            ]
+        ],
+        "name": "Mexicali - Pilooski Remix",
+        "piste": 4,
+        "track": "spotify:track:6igfN4JSpw1T7j7Ov6h11F"
+    },
+    {
+        "album": {
+            "name": "Mexicali (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:6GA7AILG5njq9muNQH2yoL"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 410341,
+        "features": {
+            "acousticness": 0.0365,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QKi7GfIzW6KUfI53PNHWk",
+            "danceability": 0.823,
+            "duration_ms": 410342,
+            "energy": 0.429,
+            "id": "4QKi7GfIzW6KUfI53PNHWk",
+            "instrumentalness": 0.877,
+            "key": 7,
+            "liveness": 0.0952,
+            "loudness": -10.709,
+            "mode": 1,
+            "speechiness": 0.0508,
+            "tempo": 113.99,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4QKi7GfIzW6KUfI53PNHWk",
+            "type": "audio_features",
+            "uri": "spotify:track:4QKi7GfIzW6KUfI53PNHWk",
+            "valence": 0.556
+        },
+        "featuring": [
+            [
+                "spotify:artist:4i0bLWWYQMI3P1KFrTWsHG",
+                "Timboletti"
+            ]
+        ],
+        "name": "Mexicali - Timboletti Remix",
+        "piste": 5,
+        "track": "spotify:track:4QKi7GfIzW6KUfI53PNHWk"
+    },
+    {
+        "album": {
+            "name": "Mexicali (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:6GA7AILG5njq9muNQH2yoL"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 284486,
+        "features": {
+            "acousticness": 0.00412,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3siol5Xvxq5VFQnuYCPtCW",
+            "danceability": 0.766,
+            "duration_ms": 284486,
+            "energy": 0.46,
+            "id": "3siol5Xvxq5VFQnuYCPtCW",
+            "instrumentalness": 0.209,
+            "key": 8,
+            "liveness": 0.299,
+            "loudness": -8.701,
+            "mode": 1,
+            "speechiness": 0.0467,
+            "tempo": 100.026,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3siol5Xvxq5VFQnuYCPtCW",
+            "type": "audio_features",
+            "uri": "spotify:track:3siol5Xvxq5VFQnuYCPtCW",
+            "valence": 0.385
+        },
+        "featuring": [
+            [
+                "spotify:artist:3WijkKwDoQkcQ7ZeBuVdCT",
+                "Coco Planktos"
+            ]
+        ],
+        "name": "Mexicali - Coco Planktos Remix",
+        "piste": 6,
+        "track": "spotify:track:3siol5Xvxq5VFQnuYCPtCW"
+    },
+    {
+        "album": {
+            "name": "Plage isol\u00e9e",
+            "type": "single",
+            "uri": "spotify:album:5UpojY4CeEOWV0UsyYb1XS"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 359035,
+        "features": {
+            "acousticness": 0.0779,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1caAr2Czh1TwWdozCcsLSC",
+            "danceability": 0.783,
+            "duration_ms": 359035,
+            "energy": 0.437,
+            "id": "1caAr2Czh1TwWdozCcsLSC",
+            "instrumentalness": 0.157,
+            "key": 10,
+            "liveness": 0.0805,
+            "loudness": -8.735,
+            "mode": 0,
+            "speechiness": 0.0333,
+            "tempo": 96.996,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1caAr2Czh1TwWdozCcsLSC",
+            "type": "audio_features",
+            "uri": "spotify:track:1caAr2Czh1TwWdozCcsLSC",
+            "valence": 0.46
+        },
+        "featuring": [],
+        "name": "Plage isol\u00e9e (Soleil couchant)",
+        "piste": 2,
+        "track": "spotify:track:1caAr2Czh1TwWdozCcsLSC"
+    },
+    {
+        "album": {
+            "name": "Plage isol\u00e9e",
+            "type": "single",
+            "uri": "spotify:album:5UpojY4CeEOWV0UsyYb1XS"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 358411,
+        "features": {
+            "acousticness": 0.0265,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RRmH67slzwjCQwuFlih6e",
+            "danceability": 0.761,
+            "duration_ms": 358411,
+            "energy": 0.468,
+            "id": "2RRmH67slzwjCQwuFlih6e",
+            "instrumentalness": 0.674,
+            "key": 5,
+            "liveness": 0.476,
+            "loudness": -10.096,
+            "mode": 0,
+            "speechiness": 0.0344,
+            "tempo": 109.998,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2RRmH67slzwjCQwuFlih6e",
+            "type": "audio_features",
+            "uri": "spotify:track:2RRmH67slzwjCQwuFlih6e",
+            "valence": 0.737
+        },
+        "featuring": [
+            [
+                "spotify:artist:6oXDLIvi9SpmxG68uNpsMZ",
+                "Tim Paris"
+            ]
+        ],
+        "name": "Plage isol\u00e9e - Tim Paris Remix",
+        "piste": 3,
+        "track": "spotify:track:2RRmH67slzwjCQwuFlih6e"
+    },
+    {
+        "album": {
+            "name": "Plage isol\u00e9e",
+            "type": "single",
+            "uri": "spotify:album:5UpojY4CeEOWV0UsyYb1XS"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 393815,
+        "features": {
+            "acousticness": 0.0264,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/347UP4yLIfFdtdwPFI5enu",
+            "danceability": 0.957,
+            "duration_ms": 393816,
+            "energy": 0.452,
+            "id": "347UP4yLIfFdtdwPFI5enu",
+            "instrumentalness": 0.0105,
+            "key": 10,
+            "liveness": 0.28,
+            "loudness": -11.078,
+            "mode": 0,
+            "speechiness": 0.128,
+            "tempo": 110.995,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/347UP4yLIfFdtdwPFI5enu",
+            "type": "audio_features",
+            "uri": "spotify:track:347UP4yLIfFdtdwPFI5enu",
+            "valence": 0.766
+        },
+        "featuring": [
+            [
+                "spotify:artist:4DK1qq54kEAEmFiQlDYAD3",
+                "Claap!"
+            ]
+        ],
+        "name": "Plage isol\u00e9e - Claap! Remix",
+        "piste": 4,
+        "track": "spotify:track:347UP4yLIfFdtdwPFI5enu"
+    },
+    {
+        "album": {
+            "name": "Rivolta - EP",
+            "type": "single",
+            "uri": "spotify:album:6ycVst9r4m9zuhBbBo0OG8"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 360901,
+        "features": {
+            "acousticness": 0.00107,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1REhVQCK3Qp0jEDyPH9eE2",
+            "danceability": 0.711,
+            "duration_ms": 360902,
+            "energy": 0.713,
+            "id": "1REhVQCK3Qp0jEDyPH9eE2",
+            "instrumentalness": 0.233,
+            "key": 0,
+            "liveness": 0.144,
+            "loudness": -8.291,
+            "mode": 1,
+            "speechiness": 0.0436,
+            "tempo": 115.46,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1REhVQCK3Qp0jEDyPH9eE2",
+            "type": "audio_features",
+            "uri": "spotify:track:1REhVQCK3Qp0jEDyPH9eE2",
+            "valence": 0.724
+        },
+        "featuring": [
+            [
+                "spotify:artist:7rD5LmiOh6Zbsgk2fBmy41",
+                "Get a Room!"
+            ]
+        ],
+        "name": "Rivolta (Get A Room! Remix)",
+        "piste": 2,
+        "track": "spotify:track:1REhVQCK3Qp0jEDyPH9eE2"
+    },
+    {
+        "album": {
+            "name": "Rivolta - EP",
+            "type": "single",
+            "uri": "spotify:album:6ycVst9r4m9zuhBbBo0OG8"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 462468,
+        "features": {
+            "acousticness": 0.0078,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4vrkzIBEkRTft7gp8qZnPE",
+            "danceability": 0.759,
+            "duration_ms": 462469,
+            "energy": 0.736,
+            "id": "4vrkzIBEkRTft7gp8qZnPE",
+            "instrumentalness": 0.693,
+            "key": 0,
+            "liveness": 0.117,
+            "loudness": -6.442,
+            "mode": 1,
+            "speechiness": 0.0403,
+            "tempo": 124.991,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4vrkzIBEkRTft7gp8qZnPE",
+            "type": "audio_features",
+            "uri": "spotify:track:4vrkzIBEkRTft7gp8qZnPE",
+            "valence": 0.695
+        },
+        "featuring": [
+            [
+                "spotify:artist:32cuewFAsKs6JlleMv85i3",
+                "Gramme"
+            ]
+        ],
+        "name": "Rivolta (Gramme Remix)",
+        "piste": 3,
+        "track": "spotify:track:4vrkzIBEkRTft7gp8qZnPE"
+    },
+    {
+        "album": {
+            "name": "Hello Hello Hello",
+            "type": "single",
+            "uri": "spotify:album:70aQ0CPR3L8s2vY3gzqIXd"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 235800,
+        "features": {
+            "acousticness": 0.0995,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/21n1v8fz2gvWmv2zcMYg0x",
+            "danceability": 0.688,
+            "duration_ms": 235801,
+            "energy": 0.84,
+            "id": "21n1v8fz2gvWmv2zcMYg0x",
+            "instrumentalness": 0.0778,
+            "key": 10,
+            "liveness": 0.29,
+            "loudness": -7.317,
+            "mode": 0,
+            "speechiness": 0.0534,
+            "tempo": 91.001,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/21n1v8fz2gvWmv2zcMYg0x",
+            "type": "audio_features",
+            "uri": "spotify:track:21n1v8fz2gvWmv2zcMYg0x",
+            "valence": 0.698
+        },
+        "featuring": [
+            [
+                "spotify:artist:0NB5HROxc8dDBXpkIi1v3d",
+                "Remi Wolf"
+            ]
+        ],
+        "name": "Hello Hello Hello - Polo & Pan Remix",
+        "piste": 2,
+        "track": "spotify:track:21n1v8fz2gvWmv2zcMYg0x"
+    },
+    {
+        "album": {
+            "name": "Se r\u00e9veiller en musique",
+            "type": "compilation",
+            "uri": "spotify:album:28y1UcwqjlOG5u6gIAJ5nw"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 175573,
+        "features": {
+            "acousticness": 0.0524,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7hgtuvlj9bCcBWANH3X9la",
+            "danceability": 0.723,
+            "duration_ms": 175573,
+            "energy": 0.672,
+            "id": "7hgtuvlj9bCcBWANH3X9la",
+            "instrumentalness": 0.00824,
+            "key": 7,
+            "liveness": 0.254,
+            "loudness": -5.3,
+            "mode": 1,
+            "speechiness": 0.0352,
+            "tempo": 102.96,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/7hgtuvlj9bCcBWANH3X9la",
+            "type": "audio_features",
+            "uri": "spotify:track:7hgtuvlj9bCcBWANH3X9la",
+            "valence": 0.319
+        },
+        "featuring": [
+            [
+                "spotify:artist:4eFImh8D3F15dtZk0JQlpT",
+                "Fakear"
+            ],
+            [
+                "spotify:artist:3TB54cQWdcg0uDjBoTu6S2",
+                "Noraa"
+            ],
+            [
+                "spotify:artist:5CM5PpBzdFwgJmlafK2AEy",
+                "Clement Bazin"
+            ]
+        ],
+        "name": "Lost In Time - Radio Edit",
+        "piste": 13,
+        "track": "spotify:track:7hgtuvlj9bCcBWANH3X9la"
+    },
+    {
+        "album": {
+            "name": "Nosso Ritmo",
+            "type": "album",
+            "uri": "spotify:album:7cg86ZoPbQjK7wVv3P7vEk"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 381933,
+        "features": {
+            "acousticness": 0.398,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/65z49KvgmU4dHJb3MQQyAs",
+            "danceability": 0.739,
+            "duration_ms": 381933,
+            "energy": 0.788,
+            "id": "65z49KvgmU4dHJb3MQQyAs",
+            "instrumentalness": 0.907,
+            "key": 11,
+            "liveness": 0.102,
+            "loudness": -8.188,
+            "mode": 1,
+            "speechiness": 0.0412,
+            "tempo": 116.015,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/65z49KvgmU4dHJb3MQQyAs",
+            "type": "audio_features",
+            "uri": "spotify:track:65z49KvgmU4dHJb3MQQyAs",
+            "valence": 0.446
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ePIzx9NjxplS724QMZtsf",
+                "Yuksek"
+            ]
+        ],
+        "name": "Cadenza",
+        "piste": 10,
+        "track": "spotify:track:65z49KvgmU4dHJb3MQQyAs"
+    },
+    {
+        "album": {
+            "name": "Nosso Ritmo",
+            "type": "album",
+            "uri": "spotify:album:4nx0uCMzBKlsiQJf8DWjHF"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 381933,
+        "features": {
+            "acousticness": 0.405,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Vh8dZuZ8QrgGwvmIpMJgM",
+            "danceability": 0.739,
+            "duration_ms": 381933,
+            "energy": 0.788,
+            "id": "1Vh8dZuZ8QrgGwvmIpMJgM",
+            "instrumentalness": 0.898,
+            "key": 11,
+            "liveness": 0.103,
+            "loudness": -8.186,
+            "mode": 1,
+            "speechiness": 0.0411,
+            "tempo": 116.021,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1Vh8dZuZ8QrgGwvmIpMJgM",
+            "type": "audio_features",
+            "uri": "spotify:track:1Vh8dZuZ8QrgGwvmIpMJgM",
+            "valence": 0.448
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ePIzx9NjxplS724QMZtsf",
+                "Yuksek"
+            ]
+        ],
+        "name": "Candenza",
+        "piste": 10,
+        "track": "spotify:track:1Vh8dZuZ8QrgGwvmIpMJgM"
+    },
+    {
+        "album": {
+            "name": "NOSSO RITMO",
+            "type": "single",
+            "uri": "spotify:album:09AzeNwB8RxI7V9xXYSbrr"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 381933,
+        "features": {
+            "acousticness": 0.403,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4SoJP8TekdOkcoOwEp8WRa",
+            "danceability": 0.739,
+            "duration_ms": 381933,
+            "energy": 0.787,
+            "id": "4SoJP8TekdOkcoOwEp8WRa",
+            "instrumentalness": 0.902,
+            "key": 11,
+            "liveness": 0.104,
+            "loudness": -8.186,
+            "mode": 1,
+            "speechiness": 0.0412,
+            "tempo": 116.018,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4SoJP8TekdOkcoOwEp8WRa",
+            "type": "audio_features",
+            "uri": "spotify:track:4SoJP8TekdOkcoOwEp8WRa",
+            "valence": 0.458
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ePIzx9NjxplS724QMZtsf",
+                "Yuksek"
+            ]
+        ],
+        "name": "Cadenza (feat. Polo and Pan)",
+        "piste": 10,
+        "track": "spotify:track:4SoJP8TekdOkcoOwEp8WRa"
+    },
+    {
+        "album": {
+            "name": "Cadenza",
+            "type": "single",
+            "uri": "spotify:album:4SDT1aWAajt4ICuwa1sfiN"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 221509,
+        "features": {
+            "acousticness": 0.361,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eurAydCrpvsrW2nwaKDez",
+            "danceability": 0.728,
+            "duration_ms": 221509,
+            "energy": 0.809,
+            "id": "2eurAydCrpvsrW2nwaKDez",
+            "instrumentalness": 0.941,
+            "key": 11,
+            "liveness": 0.128,
+            "loudness": -7.639,
+            "mode": 1,
+            "speechiness": 0.0437,
+            "tempo": 116.002,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2eurAydCrpvsrW2nwaKDez",
+            "type": "audio_features",
+            "uri": "spotify:track:2eurAydCrpvsrW2nwaKDez",
+            "valence": 0.528
+        },
+        "featuring": [
+            [
+                "spotify:artist:2ePIzx9NjxplS724QMZtsf",
+                "Yuksek"
+            ]
+        ],
+        "name": "Cadenza - Edit",
+        "piste": 2,
+        "track": "spotify:track:2eurAydCrpvsrW2nwaKDez"
+    },
+    {
+        "album": {
+            "name": "\u00c7a fait 2x plus de bien",
+            "type": "single",
+            "uri": "spotify:album:5v03jp3rrC4R0AVFlMsMAE"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 181106,
+        "features": {
+            "acousticness": 0.237,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UPNrU3SCxNxa4qXcM3oOs",
+            "danceability": 0.762,
+            "duration_ms": 181107,
+            "energy": 0.776,
+            "id": "4UPNrU3SCxNxa4qXcM3oOs",
+            "instrumentalness": 0.178,
+            "key": 9,
+            "liveness": 0.186,
+            "loudness": -6.808,
+            "mode": 1,
+            "speechiness": 0.0611,
+            "tempo": 96.018,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4UPNrU3SCxNxa4qXcM3oOs",
+            "type": "audio_features",
+            "uri": "spotify:track:4UPNrU3SCxNxa4qXcM3oOs",
+            "valence": 0.476
+        },
+        "featuring": [
+            [
+                "spotify:artist:5Z1r1R8kuSh4FRdQh7kzmC",
+                "Antonin"
+            ]
+        ],
+        "name": "\u00c7a fait du bien - Polo & Pan Remix",
+        "piste": 1,
+        "track": "spotify:track:4UPNrU3SCxNxa4qXcM3oOs"
+    },
+    {
+        "album": {
+            "name": "All Glows",
+            "type": "album",
+            "uri": "spotify:album:62YytsweQ1OBHaYdcqRw2q"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 174266,
+        "features": {
+            "acousticness": 0.0783,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Af6CjK4ASBl6rz87kFtN2",
+            "danceability": 0.715,
+            "duration_ms": 174267,
+            "energy": 0.684,
+            "id": "2Af6CjK4ASBl6rz87kFtN2",
+            "instrumentalness": 0.000943,
+            "key": 0,
+            "liveness": 0.302,
+            "loudness": -4.999,
+            "mode": 1,
+            "speechiness": 0.0349,
+            "tempo": 102.979,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2Af6CjK4ASBl6rz87kFtN2",
+            "type": "audio_features",
+            "uri": "spotify:track:2Af6CjK4ASBl6rz87kFtN2",
+            "valence": 0.316
+        },
+        "featuring": [
+            [
+                "spotify:artist:4eFImh8D3F15dtZk0JQlpT",
+                "Fakear"
+            ],
+            [
+                "spotify:artist:3TB54cQWdcg0uDjBoTu6S2",
+                "Noraa"
+            ],
+            [
+                "spotify:artist:5CM5PpBzdFwgJmlafK2AEy",
+                "Clement Bazin"
+            ]
+        ],
+        "name": "Lost In Time",
+        "piste": 3,
+        "track": "spotify:track:2Af6CjK4ASBl6rz87kFtN2"
+    },
+    {
+        "album": {
+            "name": "Fille de ta r\u00e9gion (Vol. 2)",
+            "type": "single",
+            "uri": "spotify:album:4frcucNPe7CzPeKBFzCbzg"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 238081,
+        "features": {
+            "acousticness": 0.383,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SXCrv9otG13cGWccKd1DI",
+            "danceability": 0.849,
+            "duration_ms": 238081,
+            "energy": 0.7,
+            "id": "0SXCrv9otG13cGWccKd1DI",
+            "instrumentalness": 0.731,
+            "key": 8,
+            "liveness": 0.0955,
+            "loudness": -8.064,
+            "mode": 0,
+            "speechiness": 0.0625,
+            "tempo": 118.011,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0SXCrv9otG13cGWccKd1DI",
+            "type": "audio_features",
+            "uri": "spotify:track:0SXCrv9otG13cGWccKd1DI",
+            "valence": 0.215
+        },
+        "featuring": [
+            [
+                "spotify:artist:6vs7gfG3OVDyBiY7loLsyQ",
+                "Corine"
+            ]
+        ],
+        "name": "Pluie fine - Polo & Pan Remix",
+        "piste": 4,
+        "track": "spotify:track:0SXCrv9otG13cGWccKd1DI"
+    },
+    {
+        "album": {
+            "name": "No Madame (Remixes)",
+            "type": "single",
+            "uri": "spotify:album:3Y3fMSjS2yern66AUQwC6F"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 211068,
+        "features": {
+            "acousticness": 0.264,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1259h6dPXYBVVeB7gjIe4L",
+            "danceability": 0.801,
+            "duration_ms": 211068,
+            "energy": 0.713,
+            "id": "1259h6dPXYBVVeB7gjIe4L",
+            "instrumentalness": 0.819,
+            "key": 2,
+            "liveness": 0.352,
+            "loudness": -7.004,
+            "mode": 1,
+            "speechiness": 0.088,
+            "tempo": 114.995,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1259h6dPXYBVVeB7gjIe4L",
+            "type": "audio_features",
+            "uri": "spotify:track:1259h6dPXYBVVeB7gjIe4L",
+            "valence": 0.635
+        },
+        "featuring": [
+            [
+                "spotify:artist:56QlZ0AFfkaaHyANLVkg5h",
+                "Calypso Rose"
+            ]
+        ],
+        "name": "No Madame (Polo & Pan Remix)",
+        "piste": 1,
+        "track": "spotify:track:1259h6dPXYBVVeB7gjIe4L"
+    },
+    {
+        "album": {
+            "name": "A Crack in the Eyes (Remixes)",
+            "type": "album",
+            "uri": "spotify:album:1TxuvGg4EQPiqX5E1vwOkb"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 264057,
+        "features": {
+            "acousticness": 0.312,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6QaiffmHWYeBtR8Avl7xKX",
+            "danceability": 0.751,
+            "duration_ms": 264057,
+            "energy": 0.41,
+            "id": "6QaiffmHWYeBtR8Avl7xKX",
+            "instrumentalness": 0.779,
+            "key": 1,
+            "liveness": 0.0542,
+            "loudness": -8.417,
+            "mode": 1,
+            "speechiness": 0.0479,
+            "tempo": 94.002,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6QaiffmHWYeBtR8Avl7xKX",
+            "type": "audio_features",
+            "uri": "spotify:track:6QaiffmHWYeBtR8Avl7xKX",
+            "valence": 0.299
+        },
+        "featuring": [
+            [
+                "spotify:artist:5bvwbAyrx6Yk8oLHqOnJ9p",
+                "Fhin"
+            ]
+        ],
+        "name": "Already Know That - Polo & Pan Remix",
+        "piste": 2,
+        "track": "spotify:track:6QaiffmHWYeBtR8Avl7xKX"
+    },
+    {
+        "album": {
+            "name": "Technikart 01 - Indian Summer",
+            "type": "compilation",
+            "uri": "spotify:album:2B3gzM2zTKLVU3eRvlFpNO"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 387374,
+        "features": {
+            "acousticness": 0.111,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mHG5Fqy1P5plnVaUZTSE9",
+            "danceability": 0.5,
+            "duration_ms": 387374,
+            "energy": 0.437,
+            "id": "1mHG5Fqy1P5plnVaUZTSE9",
+            "instrumentalness": 0.787,
+            "key": 0,
+            "liveness": 0.0914,
+            "loudness": -8.114,
+            "mode": 0,
+            "speechiness": 0.049,
+            "tempo": 103.67,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/1mHG5Fqy1P5plnVaUZTSE9",
+            "type": "audio_features",
+            "uri": "spotify:track:1mHG5Fqy1P5plnVaUZTSE9",
+            "valence": 0.592
+        },
+        "featuring": [
+            [
+                "spotify:artist:4v28mnsnZ4N7YfTWlebKNM",
+                "Turzi"
+            ]
+        ],
+        "name": "Colombe (Polo & Pan Remix)",
+        "piste": 10,
+        "track": "spotify:track:1mHG5Fqy1P5plnVaUZTSE9"
+    },
+    {
+        "album": {
+            "name": "Don't Sing",
+            "type": "album",
+            "uri": "spotify:album:7HGiUWfOslsBiDEeJkzy4V"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 311950,
+        "features": {
+            "acousticness": 0.0231,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3e4OoM7ltrDn63xcZccpj1",
+            "danceability": 0.77,
+            "duration_ms": 311950,
+            "energy": 0.576,
+            "id": "3e4OoM7ltrDn63xcZccpj1",
+            "instrumentalness": 0.0124,
+            "key": 1,
+            "liveness": 0.0903,
+            "loudness": -5.42,
+            "mode": 1,
+            "speechiness": 0.038,
+            "tempo": 103.993,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/3e4OoM7ltrDn63xcZccpj1",
+            "type": "audio_features",
+            "uri": "spotify:track:3e4OoM7ltrDn63xcZccpj1",
+            "valence": 0.339
+        },
+        "featuring": [
+            [
+                "spotify:artist:75QkeG5yBHVCybZurCrMa8",
+                "Data"
+            ]
+        ],
+        "name": "Don't Sing (Polo & Pan Remix)",
+        "piste": 5,
+        "track": "spotify:track:3e4OoM7ltrDn63xcZccpj1"
+    },
+    {
+        "album": {
+            "name": "Boonghusa - EP",
+            "type": "single",
+            "uri": "spotify:album:00jEGBBL4TPIUw4VUkU63P"
+        },
+        "artist": "spotify:artist:45yEuthJ9yq1rNXAOpBnqM",
+        "artist_str": "Polo & Pan",
+        "duration": 310714,
+        "features": {
+            "acousticness": 0.00085,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fMNgDZcji73HpNXUqLbCn",
+            "danceability": 0.742,
+            "duration_ms": 310714,
+            "energy": 0.289,
+            "id": "5fMNgDZcji73HpNXUqLbCn",
+            "instrumentalness": 0.897,
+            "key": 5,
+            "liveness": 0.0725,
+            "loudness": -16.338,
+            "mode": 1,
+            "speechiness": 0.0487,
+            "tempo": 112.004,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/5fMNgDZcji73HpNXUqLbCn",
+            "type": "audio_features",
+            "uri": "spotify:track:5fMNgDZcji73HpNXUqLbCn",
+            "valence": 0.0394
+        },
+        "featuring": [
+            [
+                "spotify:artist:28TS6lsqvm8EKRdBzMigTh",
+                "Limousine"
+            ]
+        ],
+        "name": "Boonghusa (Polo & Pan Remix)",
+        "piste": 4,
+        "track": "spotify:track:5fMNgDZcji73HpNXUqLbCn"
+    }
+]

@@ -9,6 +9,8 @@ Image Docker de l'application finale, i.e., récupérer les discographies des ar
   * `sudo docker build -t yttracks .`
 * Run classique de l'image avec le fichier exemple :
   * `sudo docker run yttracks`
+* Run en montant un des 200 fichiers découpés des artistes
+  * `sudo docker run -v ~/proj/docker_learning/image_final_application/data/set_0001.txt:/app/artists.txt`
 
 
 ### A modifier
@@ -51,3 +53,16 @@ Pour récupérer l'url de la première vidéo issue d'une requête sur Youtube, 
 
 #### **bash non disponible sur docker** 
 `bash` n'est, par défaut, pas installé sur les images docker car on veut garder le plus de place possible. Seul `sh` est disponible
+
+
+
+
+### A faire 
+
+ * Un petit script qui run une image et qui ramène les data dans la foulée dans le host
+ * Modifiez le script `grabber_youtube_links.py` :
+   * Celui-ci ne fonctionne pas à tous les coups
+   * En rajoutant les noms des artistes en featuring dans la requête, ca devrait le faire (éventuellement rajouter le nom de l'album?)
+   * Eventuellement en triant les 10 sorties retournées et en prenant la plus pertinente rapport en comparant titre et description youtube et le/les auteurs et le nom du track
+ * Revoir l'organisation du folder en rangeant dans un folder les scripts appelés par le Dockerfile
+ * Regardez si l'application du téléchargement de commentaires marche à nouveau
