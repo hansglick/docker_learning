@@ -11,6 +11,11 @@ Image Docker de l'application finale, i.e., récupérer les discographies des ar
   * `sudo docker run yttracks`
 
 
+### A modifier
+
+ * Dans le fichier `dwlsongs.sh`, à la ligne 5, modifiez `jq '.[0:6]'` par `jq '.[]'` une fois qu'on passe en production. `[0:6]` signifie qu'on ne télécharge que les 7 premiers tracks uniquement (phase de test)
+
+
 ### Trucs à savoir & astuces
 
 * Pour ne pas rebuild from scratch une image si on ne modifie que des scripts :

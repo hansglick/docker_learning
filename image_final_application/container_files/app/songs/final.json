@@ -55,55 +55,6 @@
         },
         "artist": "spotify:artist:1TqcTSown8g3Txdq3zNazR",
         "artist_str": "Jeff Mills",
-        "duration": 154644,
-        "features": {
-            "acousticness": 0.458,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Bt6PnA2QyIdULPlmkmivw",
-            "danceability": 0.681,
-            "duration_ms": 154645,
-            "energy": 0.543,
-            "id": "0Bt6PnA2QyIdULPlmkmivw",
-            "instrumentalness": 0,
-            "key": 0,
-            "liveness": 0.177,
-            "loudness": -6.576,
-            "mode": 1,
-            "speechiness": 0.0277,
-            "tempo": 78.463,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/0Bt6PnA2QyIdULPlmkmivw",
-            "type": "audio_features",
-            "uri": "spotify:track:0Bt6PnA2QyIdULPlmkmivw",
-            "valence": 0.0912
-        },
-        "featuring": [],
-        "name": "Ho Hey (Belong with You Mix)",
-        "piste": 2,
-        "track": "spotify:track:0Bt6PnA2QyIdULPlmkmivw",
-        "youtube": [
-            {
-                "channel": "Jeff Mills - Topic",
-                "duration": "2:35",
-                "id": "Y4-BPXrSWkc",
-                "long_desc": "Provided to YouTube by The Orchard Enterprises ",
-                "thumbnails": [
-                    "https://i.ytimg.com/vi/Y4-BPXrSWkc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQMugU0rVvMNfZpAyE1kqSxPRx2w",
-                    "https://i.ytimg.com/vi/Y4-BPXrSWkc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDQ35H7_Z6HBAR2ubetTs0-BE_bTA"
-                ],
-                "title": "Ho Hey (Belong with You Mix)",
-                "url_suffix": "/watch?v=Y4-BPXrSWkc",
-                "views": "118\u00a0vues"
-            }
-        ]
-    },
-    {
-        "album": {
-            "name": "It's Time",
-            "type": "album",
-            "uri": "spotify:album:5E8HIAzGJ73bSBNPDhx2rz"
-        },
-        "artist": "spotify:artist:1TqcTSown8g3Txdq3zNazR",
-        "artist_str": "Jeff Mills",
         "duration": 272555,
         "features": {
             "acousticness": 0.049,
@@ -289,6 +240,55 @@
                 "title": "Club Can't Handle Me",
                 "url_suffix": "/watch?v=O2yZryvTuWI",
                 "views": "52\u00a0vues"
+            }
+        ]
+    },
+    {
+        "album": {
+            "name": "It's Time",
+            "type": "album",
+            "uri": "spotify:album:5E8HIAzGJ73bSBNPDhx2rz"
+        },
+        "artist": "spotify:artist:1TqcTSown8g3Txdq3zNazR",
+        "artist_str": "Jeff Mills",
+        "duration": 202407,
+        "features": {
+            "acousticness": 0.137,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0b8mQmijiIubXQqDssixSK",
+            "danceability": 0.887,
+            "duration_ms": 202407,
+            "energy": 0.848,
+            "id": "0b8mQmijiIubXQqDssixSK",
+            "instrumentalness": 0,
+            "key": 9,
+            "liveness": 0.0254,
+            "loudness": -3.715,
+            "mode": 1,
+            "speechiness": 0.0596,
+            "tempo": 110.481,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/0b8mQmijiIubXQqDssixSK",
+            "type": "audio_features",
+            "uri": "spotify:track:0b8mQmijiIubXQqDssixSK",
+            "valence": 0.96
+        },
+        "featuring": [],
+        "name": "Heart Skips a Beat",
+        "piste": 7,
+        "track": "spotify:track:0b8mQmijiIubXQqDssixSK",
+        "youtube": [
+            {
+                "channel": "Jeff Mills - Topic",
+                "duration": "3:23",
+                "id": "EHDHNFQr7Io",
+                "long_desc": "Provided to YouTube by The Orchard Enterprises ",
+                "thumbnails": [
+                    "https://i.ytimg.com/vi/EHDHNFQr7Io/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZpDu7PGVxhAWKoIMqlZWEPsFiUA",
+                    "https://i.ytimg.com/vi/EHDHNFQr7Io/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1NYb3QYgAHVuH_zCDBWhkasZ3Gw"
+                ],
+                "title": "Heart Skips a Beat (My Heart Skips a Beat)",
+                "url_suffix": "/watch?v=EHDHNFQr7Io",
+                "views": "19\u00a0vues"
             }
         ]
     },
@@ -2273,55 +2273,6 @@
         },
         "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
         "artist_str": "Singuila",
-        "duration": 200066,
-        "features": {
-            "acousticness": 0.139,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ExghFUqREAu32WHfwE9DT",
-            "danceability": 0.605,
-            "duration_ms": 200067,
-            "energy": 0.511,
-            "id": "2ExghFUqREAu32WHfwE9DT",
-            "instrumentalness": 0,
-            "key": 5,
-            "liveness": 0.0533,
-            "loudness": -6.788,
-            "mode": 0,
-            "speechiness": 0.0443,
-            "tempo": 120.129,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/2ExghFUqREAu32WHfwE9DT",
-            "type": "audio_features",
-            "uri": "spotify:track:2ExghFUqREAu32WHfwE9DT",
-            "valence": 0.229
-        },
-        "featuring": [],
-        "name": "Solitude",
-        "piste": 8,
-        "track": "spotify:track:2ExghFUqREAu32WHfwE9DT",
-        "youtube": [
-            {
-                "channel": "SinguilaOfficiel",
-                "duration": "3:21",
-                "id": "HPbie9WI5xc",
-                "long_desc": "Provided to YouTube by Jive Epic ",
-                "thumbnails": [
-                    "https://i.ytimg.com/vi/HPbie9WI5xc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0vb1MbfasxQj5BAnzcsQIOqycOw",
-                    "https://i.ytimg.com/vi/HPbie9WI5xc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDzdChRJ7D5S_cQTkfIlV9Dxd-SKA"
-                ],
-                "title": "Solitude",
-                "url_suffix": "/watch?v=HPbie9WI5xc",
-                "views": "22\u202f143\u00a0vues"
-            }
-        ]
-    },
-    {
-        "album": {
-            "name": "Entre 2",
-            "type": "album",
-            "uri": "spotify:album:3E0iPg7I434LlrpK6LL2aS"
-        },
-        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
-        "artist_str": "Singuila",
         "duration": 262053,
         "features": {
             "acousticness": 0.343,
@@ -3809,6 +3760,54 @@
         },
         "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
         "artist_str": "Singuila",
+        "duration": 263053,
+        "features": {
+            "acousticness": 0.0867,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4scXmvZox8otZedQ8yT3yL",
+            "danceability": 0.803,
+            "duration_ms": 263053,
+            "energy": 0.503,
+            "id": "4scXmvZox8otZedQ8yT3yL",
+            "instrumentalness": 0,
+            "key": 0,
+            "liveness": 0.0979,
+            "loudness": -9.478,
+            "mode": 1,
+            "speechiness": 0.0836,
+            "tempo": 89.998,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/4scXmvZox8otZedQ8yT3yL",
+            "type": "audio_features",
+            "uri": "spotify:track:4scXmvZox8otZedQ8yT3yL",
+            "valence": 0.798
+        },
+        "featuring": [],
+        "name": "Outsider",
+        "piste": 8,
+        "track": "spotify:track:4scXmvZox8otZedQ8yT3yL",
+        "youtube": [
+            {
+                "channel": "yohan57",
+                "duration": "4:24",
+                "id": "4DOwnofQ2a8",
+                "long_desc": "Singuila",
+                "thumbnails": [
+                    "https://i.ytimg.com/vi/4DOwnofQ2a8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVe5aXCrcY0zvZa9mQRRgRgn2iaA"
+                ],
+                "title": "Singuila-Outsider",
+                "url_suffix": "/watch?v=4DOwnofQ2a8",
+                "views": "181\u202f277\u00a0vues"
+            }
+        ]
+    },
+    {
+        "album": {
+            "name": "Ghetto compositeur",
+            "type": "album",
+            "uri": "spotify:album:55giOIrHxbaHw5xHbE64Np"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
         "duration": 197746,
         "features": {
             "acousticness": 0.3,
@@ -4477,7 +4476,7 @@
                 "id": "J0ct8vnCSgs",
                 "long_desc": "singuila",
                 "thumbnails": [
-                    "https://i.ytimg.com/vi/J0ct8vnCSgs/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7mSquHKp97a5hPVhPhpvuMeEhTw"
+                    "https://i.ytimg.com/vi/J0ct8vnCSgs/hq2.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVOkWyaR0YV-618GSmsPRgb_3VEQ"
                 ],
                 "title": "Singuila-Elle Me Saoule",
                 "url_suffix": "/watch?v=J0ct8vnCSgs",
@@ -4727,60 +4726,6 @@
                 "title": "Singuila-Le Roi Des Connards",
                 "url_suffix": "/watch?v=AGdn1syoQtI",
                 "views": "1\u202f881\u202f991\u00a0vues"
-            }
-        ]
-    },
-    {
-        "album": {
-            "name": "On ne vit qu'une fois",
-            "type": "album",
-            "uri": "spotify:album:5hlZizF4ARXGU8zafxgt76"
-        },
-        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
-        "artist_str": "Singuila",
-        "duration": 217506,
-        "features": {
-            "acousticness": 0.0807,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/14awpgHwALWC7XgAvPm8We",
-            "danceability": 0.642,
-            "duration_ms": 217507,
-            "energy": 0.663,
-            "id": "14awpgHwALWC7XgAvPm8We",
-            "instrumentalness": 0,
-            "key": 11,
-            "liveness": 0.0386,
-            "loudness": -7.512,
-            "mode": 0,
-            "speechiness": 0.336,
-            "tempo": 172.078,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/14awpgHwALWC7XgAvPm8We",
-            "type": "audio_features",
-            "uri": "spotify:track:14awpgHwALWC7XgAvPm8We",
-            "valence": 0.843
-        },
-        "featuring": [
-            [
-                "spotify:artist:09xdUjwuCCTnmDSyORXD1Z",
-                "Jacky Brown"
-            ]
-        ],
-        "name": "En bas de ma fen\u00eatre (feat. Jacky Brown)",
-        "piste": 14,
-        "track": "spotify:track:14awpgHwALWC7XgAvPm8We",
-        "youtube": [
-            {
-                "channel": "SinguilaOfficiel",
-                "duration": "3:38",
-                "id": "bz9ZuBgJ1o0",
-                "long_desc": "Provided to YouTube by Because Music En ",
-                "thumbnails": [
-                    "https://i.ytimg.com/vi/bz9ZuBgJ1o0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCe984DwAcSaWxYJ5ogHKyJQ5OMoA",
-                    "https://i.ytimg.com/vi/bz9ZuBgJ1o0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAstkdaEOwpQwrUmBjDNVCyR63jww"
-                ],
-                "title": "En bas de ma fen\u00eatre (feat. Jacky Brown)",
-                "url_suffix": "/watch?v=bz9ZuBgJ1o0",
-                "views": "3\u202f261\u00a0vues"
             }
         ]
     },
@@ -6011,55 +5956,6 @@
                 "title": "Singuila feat soprano - Qu'est-ce qu'elle est bonne",
                 "url_suffix": "/watch?v=ST_eNOVY78I",
                 "views": "6\u202f383\u202f603\u00a0vues"
-            }
-        ]
-    },
-    {
-        "album": {
-            "name": "C'est ca qu'on aime",
-            "type": "single",
-            "uri": "spotify:album:3SquiFKkpZfJ2UZkIQ1MrE"
-        },
-        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
-        "artist_str": "Singuila",
-        "duration": 228733,
-        "features": {
-            "acousticness": 0.0287,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MzopQmN8qQz2onpQtMftx",
-            "danceability": 0.742,
-            "duration_ms": 228733,
-            "energy": 0.86,
-            "id": "7MzopQmN8qQz2onpQtMftx",
-            "instrumentalness": 0,
-            "key": 11,
-            "liveness": 0.329,
-            "loudness": -4.418,
-            "mode": 1,
-            "speechiness": 0.032,
-            "tempo": 128.06,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/7MzopQmN8qQz2onpQtMftx",
-            "type": "audio_features",
-            "uri": "spotify:track:7MzopQmN8qQz2onpQtMftx",
-            "valence": 0.906
-        },
-        "featuring": [],
-        "name": "C'est ca qu'on aime",
-        "piste": 1,
-        "track": "spotify:track:7MzopQmN8qQz2onpQtMftx",
-        "youtube": [
-            {
-                "channel": "SinguilaOfficiel",
-                "duration": "3:49",
-                "id": "mQA859IVvVI",
-                "long_desc": "Provided to YouTube by Believe SAS C'est ca qu'on aime \u00b7 ",
-                "thumbnails": [
-                    "https://i.ytimg.com/vi/mQA859IVvVI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1BaQPgAhYHU69odEwppzI-zdwkw",
-                    "https://i.ytimg.com/vi/mQA859IVvVI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQkOVEyZ0WaWJSPz74Z8rX0ndhTQ"
-                ],
-                "title": "C'est ca qu'on aime",
-                "url_suffix": "/watch?v=mQA859IVvVI",
-                "views": "9\u202f308\u00a0vues"
             }
         ]
     },
@@ -7715,60 +7611,6 @@
     },
     {
         "album": {
-            "name": "Ma Generation",
-            "type": "album",
-            "uri": "spotify:album:5LoOS1iyB4uEoRxRsHlYTm"
-        },
-        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
-        "artist_str": "Singuila",
-        "duration": 203836,
-        "features": {
-            "acousticness": 0.0161,
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4TmDFjZ4aV6q2xAAkRuU0H",
-            "danceability": 0.732,
-            "duration_ms": 203837,
-            "energy": 0.871,
-            "id": "4TmDFjZ4aV6q2xAAkRuU0H",
-            "instrumentalness": 2.16e-05,
-            "key": 10,
-            "liveness": 0.311,
-            "loudness": -5.97,
-            "mode": 1,
-            "speechiness": 0.0552,
-            "tempo": 96.48,
-            "time_signature": 4,
-            "track_href": "https://api.spotify.com/v1/tracks/4TmDFjZ4aV6q2xAAkRuU0H",
-            "type": "audio_features",
-            "uri": "spotify:track:4TmDFjZ4aV6q2xAAkRuU0H",
-            "valence": 0.845
-        },
-        "featuring": [
-            [
-                "spotify:artist:0r2xzktGgZe1CWV9d0b4cP",
-                "Kevin Mengi"
-            ]
-        ],
-        "name": "P\u00e9cho (feat. Singuila)",
-        "piste": 9,
-        "track": "spotify:track:4TmDFjZ4aV6q2xAAkRuU0H",
-        "youtube": [
-            {
-                "channel": "Kevin Mengi",
-                "duration": "4:00",
-                "id": "46L7ak0rhyM",
-                "long_desc": "facebook: Kevin Mengi twitter: @KevinMengi.",
-                "thumbnails": [
-                    "https://i.ytimg.com/vi/46L7ak0rhyM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDaHvvkh9LUh5FHIlmxVuyfetIl9Q",
-                    "https://i.ytimg.com/vi/46L7ak0rhyM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCnsXYoaXkFJHTH0OfV-YHiPOSmhQ"
-                ],
-                "title": "Kevin Mengi - Pecho feat Singuila",
-                "url_suffix": "/watch?v=46L7ak0rhyM",
-                "views": "61\u202f199\u00a0vues"
-            }
-        ]
-    },
-    {
-        "album": {
             "name": "Winner Tour 2013 (Winner Tour 2013)",
             "type": "single",
             "uri": "spotify:album:7xZrh289KebjcmhiZxr0j7"
@@ -8204,6 +8046,55 @@
                 "title": "Mon p\u00e8re c'est ma m\u00e8re",
                 "url_suffix": "/watch?v=5sRaAXZ6LI8",
                 "views": "15\u202f804\u00a0vues"
+            }
+        ]
+    },
+    {
+        "album": {
+            "name": "Ra\u00ef Fever",
+            "type": "compilation",
+            "uri": "spotify:album:1GxuxJKl6klAPFn7vebyAs"
+        },
+        "artist": "spotify:artist:7uN1aqKCrD6Ju1sn74MPgf",
+        "artist_str": "Singuila",
+        "duration": 221773,
+        "features": {
+            "acousticness": 0.419,
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NigkjOcM9CCkTimKEfYX7",
+            "danceability": 0.839,
+            "duration_ms": 221773,
+            "energy": 0.714,
+            "id": "6NigkjOcM9CCkTimKEfYX7",
+            "instrumentalness": 0,
+            "key": 1,
+            "liveness": 0.313,
+            "loudness": -3.788,
+            "mode": 1,
+            "speechiness": 0.0861,
+            "tempo": 118.036,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/6NigkjOcM9CCkTimKEfYX7",
+            "type": "audio_features",
+            "uri": "spotify:track:6NigkjOcM9CCkTimKEfYX7",
+            "valence": 0.727
+        },
+        "featuring": [],
+        "name": "2 Pour Une - Feat. Sarhaoui",
+        "piste": 6,
+        "track": "spotify:track:6NigkjOcM9CCkTimKEfYX7",
+        "youtube": [
+            {
+                "channel": "djfiansou",
+                "duration": "3:51",
+                "id": "fXNV9hy7feY",
+                "long_desc": "rai rnb.",
+                "thumbnails": [
+                    "https://i.ytimg.com/vi/fXNV9hy7feY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCroYDgUlNDCmRDpTkRKut1csi0YA",
+                    "https://i.ytimg.com/vi/fXNV9hy7feY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBc-x7YuZJ50FAtFPWIow5Gn9Wtug"
+                ],
+                "title": "Singuila feat. Cheb Sahraoui - 2 pour une",
+                "url_suffix": "/watch?v=fXNV9hy7feY",
+                "views": "9\u202f018\u00a0vues"
             }
         ]
     },

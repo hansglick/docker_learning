@@ -16,7 +16,7 @@ yid="${youtubeid}.mp3"
 
 echo "$youtubeid"
 echo "dwl song"
-youtube-dl -x --audio-format mp3 -o "~/app/songs/%(id)s.%(ext)s" --audio-quality 9 $myurl
+youtube-dl -x --audio-format mp3 -o "songs/%(id)s.%(ext)s" --audio-quality 9 $myurl
 #echo "dwl comments"
 #python dwl_comments.py --youtubeid  $youtubeid --output "${OUTPUTFOLDER}/${youtubeid}.json"
 #echo ""

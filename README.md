@@ -18,14 +18,14 @@ L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le
    * Installation de tout les packages python du projet music_playground
    * Récupération **DES** discographies d'une liste d'artistes représentés par un fichier input `artists.txt`
    * Le fichier `artists.txt` est montée au moment du `docker run` 
- * [image docker Finale](https://github.com/hansglick/docker_learning/tree/master/discography_shell)
+ * [image docker Final Application](https://github.com/hansglick/docker_learning/tree/master/discography_shell)
    * Installation de tout les packages python **et linux** du projet music_playground
    * Application finale dockerisée du projet [music_playground](https://github.com/hansglick/music_playground)
    * Récupération des discographies
    * Récupération des urls des tracks sur Youtube
    * Téléchargements des tracks au format mp3
-   * Récupération des commentaires YouTube des tracks
-   * Récupération de meta data subsidiaires (nombre de vues, likes, dislikes, etc.)
+   * Récupération des commentaires YouTube des tracks (NE FONCTIONNE PAS)
+   * Récupération de meta data subsidiaires (nombre de vues, likes, dislikes, etc.) (PAS ENCORE)
    * Copie intégrale des fichiers crées dans le container en local
 ***
 

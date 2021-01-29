@@ -23,4 +23,4 @@ python grabber_youtube_links.py -f songs/final.json
 
 # AVANT DE LANCER CETTE LIGNE VERIFIER QUE CA FONCTIONNE EN SH
 echo "Downloading tracks as mp3s ..."
-bash songs/dwlsongs.sh final.json
+bash songs/dwlsongs.sh songs/final.json
