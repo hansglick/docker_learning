@@ -20,7 +20,7 @@ COPY run.sh .
 COPY assembler.py .
 COPY grabber_youtube_links.py .
 COPY requirements.txt /tmp
-COPY dwlsongs.sh /songs
+COPY dwlsongs.sh /app/songs
 COPY dwl_comments.py .
 
 RUN pip install -r /tmp/requirements.txt

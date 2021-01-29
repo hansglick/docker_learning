@@ -32,12 +32,12 @@ Image Docker de l'application finale, i.e., récupérer les discographies des ar
 
 ### Problèmes 
 
-#### ** Application de récupération des commentaires ne fonctionne plus **
+#### **Application de récupération des commentaires ne fonctionne plus**
 
 Pour télécharger les commentaires d'une vidéo YouTube, j'utilisais le package de [Egbert Bouman](https://github.com/egbertbouman/youtube-comment-downloader). Cependant, son application semble ne plus fonctionner même en local. Je lui ai envoyé un email pour le prévenir à l'adresse e.bouman@tudelft.nl
 
-#### ** Package Youtube-search a parfois des ratés**
+#### **Package Youtube-search a parfois des ratés**
 Pour récupérer l'url de la première vidéo issue d'une requête sur Youtube, j'utilise le package [Youtube-search](https://pypi.org/project/youtube-search/). Celle-ci pour une raison inconnue n'arrive parfois pas à retourner de résultats. Cela ne dépend pas de la requête puisqu'en relancant le script une seconde fois, le problème survient pour une autre requête. 
 
-#### ** bash non disponible sur docker ** 
+#### **bash non disponible sur docker** 
 `bash` n'est, par défaut, pas installé sur les images docker car on veut garder le plus de place possible. Seul `sh` est disponible
