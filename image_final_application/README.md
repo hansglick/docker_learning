@@ -15,6 +15,11 @@ Image Docker de l'application finale, i.e., récupérer les discographies des ar
 
  * Dans le fichier `dwlsongs.sh`, à la ligne 5, modifiez `jq '.[0:6]'` par `jq '.[]'` une fois qu'on passe en production. `[0:6]` signifie qu'on ne télécharge que les 7 premiers tracks uniquement (phase de test)
 
+ * Dans le ficher `dwlsongs.sh`, à la ligne 19, pour télécharger une qualité de son maximale, remplacez 
+   * `youtube-dl -x --audio-format mp3 -o "songs/%(id)s.%(ext)s" --audio-quality 9 $myurl`
+   * par
+   * `youtube-dl -x --audio-format mp3 -o "songs/%(id)s.%(ext)s" --audio-quality 1 $myurl`
+
 
 ### Trucs à savoir & astuces
 
