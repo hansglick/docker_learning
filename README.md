@@ -7,18 +7,18 @@ L'objectif de ce repo est l'apprentissage de docker afin de pouvoir déployer le
 
 ### Organisation du repository 
 
- * [Image docker hello world](https://github.com/hansglick/docker_learning/tree/master/toyexample) :
+ * [Image docker hello world](https://github.com/hansglick/docker_learning/tree/master/image_hello_world) :
    * Installation de `flask`
    * Print d'un message bidon
- * [image docker Grab Discography](https://github.com/hansglick/docker_learning/tree/master/discography_w_arguments) :
+ * [image docker Grab Discography](https://github.com/hansglick/docker_learning/tree/master/image_grab_discography) :
    * Installation de tout les packages python du projet music_playground
    * Récupération de la discographie d'un artiste via l'API Spotify
    * Passage d'arguments dans le `docker run`
- * [image docker Grab Discographies](https://github.com/hansglick/docker_learning/tree/master/discography_mutiple_artists)
+ * [image docker Grab Discographies](https://github.com/hansglick/docker_learning/tree/master/image_grab_discographies)
    * Installation de tout les packages python du projet music_playground
    * Récupération **DES** discographies d'une liste d'artistes représentés par un fichier input `artists.txt`
    * Le fichier `artists.txt` est montée au moment du `docker run` 
- * [image docker Final Application](https://github.com/hansglick/docker_learning/tree/master/discography_shell)
+ * [image docker Final Application](https://github.com/hansglick/docker_learning/tree/master/image_final_application)
    * Installation de tout les packages python **et linux** du projet music_playground
    * Application finale dockerisée du projet [music_playground](https://github.com/hansglick/music_playground)
    * Récupération des discographies
