@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Image Docker de l'application finale, i.e., récupérer les discographies des artistes, trouvez les liens des tracks sur youtube, téléchargez les tracks au format mp3, et prendre les commentaires. Ici on récupère tout les fichiers crées dans le container dans le dossier `container_files`
+Image Docker de l'application finale, i.e., récupérer les discographies des artistes, trouvez les liens des tracks sur youtube, téléchargez les tracks au format mp3, et prendre les commentaires. Ici on récupère tout les fichiers crées dans le container dans le dossier `container_files`. Les mp3s et les discographies + metadata (`final.json`) sont situés dans le dossier `/app/songs` du container
 
 
 ### Commandes
